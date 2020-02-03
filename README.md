@@ -13,7 +13,7 @@ This is the boilerplate for creating an API server in AdonisJs, it comes pre-con
 Use the adonis command to install the blueprint
 
 ```bash
-adonis new yardstick --api-only
+adonis new yardstick --blueprint devalexandre/adonis-graphQL
 ```
 
 or manually clone the repo and then run `npm install`.
