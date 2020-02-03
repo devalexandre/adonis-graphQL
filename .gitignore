@@ -1,10 +1,10 @@
 # Node modules
-node_modules
+/node_modules
 package-lock.json
-
+yarn.lock
 # Adonis directory for storing tmp files
 tmp
-
+.DS_Store
 # Environment variables, never commit this file
 .env
 
